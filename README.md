@@ -1,2 +1,3 @@
 # hello-world
 currently taking codecademy's intro to Javascript course...
+today 12/10/2018 is my first official day self studying for javascript, my end goal is to learn React! hope all goes well :)
